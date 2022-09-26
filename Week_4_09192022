@@ -1,1 +1,36 @@
+Rose: 
+- For our weekly Challenge I created the project repository for the DSF fellowship and FOSS, the group discussed benefits of private and public repositories. However, 
+after discussion with my PI we thought it would be best to make private until publication. I also noted this in my grant report as a benefit 
+for after the project is completed and for other data scientists to have access to the code to run similiar studies for other cohorts. 
 
+-In this weekly challenge we also discussed differences in licenses and most of us thought the MIT was sufficient, 
+but if we did have patent pending work some of the others could as well.
+
+Bud:
+- Joined Carlos's class on Python and Jupyter notebook, was able to get the desktop version installed and launch the HPC version. I am hopeful to use this tool in the 
+future as semester progresses.
+- I need to plan time to meet with Greg Caporaso's group to dicuss Jupyter notebooks with Qiime2 usage
+- I need to read-up on how to install the qiime2 plug-in with Jupyter notebooks as well
+
+Thorn:
+- I was traveling this week, so I missed the in-person session of FOSS but glad they are able to upload videos and notes. The project management component and tips were help
+as I think about my project repository and future steps. I think some of these tips will be useful as I have discussion with my lab on how to implement reducing point and click steps
+, keeping raw data raw or notating what has been done for preprocessing if it was not kept raw. 
+- We also discussed what Cyverse was and I think this tool can be helpful for the future and will be neat to learn more as the course progresses
+- Tuesday's discussion was short and just about our thoughts again on Open-science, would like to have more hands on exercises or thought exercise next class to really work
+on producing open-science. 
+
+
+Useful tips for my research/Lab:
+- Data Management plans:
+  https://data.library.arizona.edu/data-management/data-management-plans/examples
+  
+-choosing a GITHUB license:
+  https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633
+  
+-Carlos Python class:
+  https://github.com/clizarraga-UAD7/Workshops/wiki/Jupyter-Notebooks
+  
+-FOSS/cyverse Class:
+  https://hackmd.io/HsUDZxriT2SFBuCyok1k3A?view
+  https://www.youtube.com/watch?v=d2Gf-JzVxag
