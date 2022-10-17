@@ -1,8 +1,15 @@
-Rose:
+Rose: Made one site for project using instructions from Github pages, made one site named after me from instructions from FOSS. Then met with Greg and learned how 
+to integrate R and Github to make a website in R. The website still need project and personal touches included. FOSS lesson this week talked about Cyverse, Vice, and the commanline
+We learned to sync github with the commandline. Unsure I will use it this way, but was nice to start to see the capabilities of Cyverse. Most of the lessons on commandline this week 
+will be useful for me interfacing with my desktop and with the HPC. Carlos's lesson also introduced some commands I had not utilized before, forked that information for later. 
 
-Bud: Was able to fork repositories from Greg Chism (R code) and Carlos Lizarraga (python, github) for usage and notes to come back to later. 
+Bud: Was able to fork repositories from Greg Chism (R code) and Carlos Lizarraga (python, github) for usage and notes to come back to later. I started following DSF folks on github
+and building out other DS contacts on Github. I attended python workshop this week by Carlos to learn visualizations and started diggin into visuals that I might find useful
+to best show my datasets. Found out that one of the pages on basic microbiome analysis from a colleague of mine was actually using Github pages so that was neat to see come full circle.
+I also wrote up an Nature journal club article with a BMA member on a viral database(GVD)paper that is being stored on CyVerse/iVirus so that was also great to see the world's coming together. 
 
-Thorn:
+Thorn: We did not have full run down of commandline activity, but Carlos did provide a chapter of a book using Cyverse and the commandline to run with RNA-seq data. 
+I still need to run through this activity. 
 
 Additional information:
 
@@ -10,3 +17,6 @@ Resources:
 
 Artin mentioned this page to learn about git and branching during our version control discussion:
 https://learngitbranching.js.org/
+
+Greg mentioned this page for trying to make website in R/github
+https://hugo-apero-docs.netlify.app/
