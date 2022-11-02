@@ -1,15 +1,19 @@
-Rose:
+Rose:We started off the week talking about about scientific writing and the literature discussed was very systematic on how to write manuscripts. Great for communication, 
+but unsure I will utilize the tricks in the future as I have been utilizing others. Last week our lesson was also on running statistical methods in R and how to interpret
+the methods with certain datasets. Following we during Foss we discussed containers and how to utilize docker on cyverse. We ended the week discussing our group challenge 
+which utilized R to run basic stats on our own data sets
 
+Bud: I was able to utilize R this week, which I am a bit more comfortable with than other tools we have utilized so far. I made scatterplots and ran logistic regressions on 
+my projects dataset mostly the metadata and looked into vaginal pH, number of atopobiaceae species and BMI. However, after discussin with the group since none of the values 
+except BMI were genuinely continous they were more on a scale that logistic regression may not be the best way to analyze the data. I was utilizing mostly due to the previous example 
+that week but we determined a poisson regression model might be useful if i still wanted to look at the relationship of these variables. I think in total I am still learning the main ideas
+but will take bits and pieces of what I learn and incoporate incrementaly. I also solidified again this week how to commit and push commits to github in R through projects, which is another
+useful tip for the future when I publish my R code. 
 
-
-Bud:
 This is the weekly challenge: https://github.com/jimeneznr/DSF_Intro_R/blob/main/stats_practice.pdf
 
+Thorn:I am still confused on containers and why docker does not work on my desktop, I believe it has something to do with admin rights to the desktop. Due to this I am unsure
+useful it is to utilize containers for my current analyses. I think if I utilized cyverse further I could overcome this issue, but the idea of containers is still confusing.
 
 
-Thorn:
-
-
-
-Additional Resources:
 
