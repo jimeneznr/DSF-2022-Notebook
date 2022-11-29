@@ -1,0 +1,24 @@
+## Rose
+
+https://github.com/clizarraga-UAD7/Workshops/wiki/Overview-of-Deep-Learning-Algorithms
+
+https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
+
+## Bud
+
+## Thorn
+
+## Additional information
+
+https://www.nature.com/articles/s41598-020-63159-5
+
+https://www.nature.com/articles/s43705-022-00182-9
+
+https://academic.oup.com/bioinformatics/article/38/4/1176/6426068
+
+https://miandata.org/
+
+
+
+## Weekly challenge
+
