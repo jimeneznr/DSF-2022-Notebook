@@ -5,8 +5,11 @@ https://github.com/clizarraga-UAD7/Workshops/wiki/Overview-of-Deep-Learning-Algo
 https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
 
 ## Bud
+Annotation of code for others to read also tidy code
 
 ## Thorn
+
+
 
 ## Additional information
 
