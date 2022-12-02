@@ -10,15 +10,47 @@ https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
 
 ## Additional information
 
-https://www.nature.com/articles/s41598-020-63159-5
-
 https://www.nature.com/articles/s43705-022-00182-9
 
+## Weekly challenge
+
+### Question: How would deep learning neural networks would benefit your current research?
+
+#### Article 1
 https://academic.oup.com/bioinformatics/article/38/4/1176/6426068
 
 https://miandata.org/
 
+##### Neural network utilizing
+Machine Learning: Linear Regressor , Linear classifier, and Random Forest classifier
+Deep learning: multi-layer perceptrons (MLPs) to predict a numerical or categorical variable
+
+##### what is the research question
+It is GUI for analyzing microbiome datasets and includes several ML algorithms and a deeplearning algorithm
 
 
-## Weekly challenge
+#### Article 2
+https://www.nature.com/articles/s41598-020-63159-5
+
+##### Neural network utilizing
+Shallow autoencoder (SAE), deep autoencoder (DAE), variational autoencoder (VAE), and convolutional autoencoder (CAE)
+
+##### what is the research question
+A tool created utilizing neural networks for understand disease groups and the microbiome relationship 
+"deploys various autoencoders to learn robust low-dimensional representations from high-dimensional microbiome profiles and trains classification models based on the learned representation."
+
+
+#### Article 3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8531731/
+
+##### Neural network utilizing
+This is more a lit review so mentions many like convolutional neural networks (CNN), recurrent neural networks (RNN), and graph convolutional neural networks (GCN)
+##### what is the research question
+This paper discusses how deep learning is helping to identify key signatures and phenotypes from plant microbiota
+
+They discuss several areas of interst for Deep learning:
+
+1)Deciphering Species Composition of Microbiome Data
+2)Functional Analysis by Deep Learning Methods aka gene prediction
+3)Directly Predicting the Host Phenotype
 
